@@ -1,2 +1,3 @@
 # Steam-API
-Practical Steam API Library
+Steam API Library
+<br> Author: @yusufhan (Yusufhan Karakoç)
