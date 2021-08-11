@@ -7,7 +7,7 @@
  ____) | ||  __/ (_| | | | | | |  / ____ \| |    _| |_ 
 |_____/ \__\___|\__,_|_| |_| |_| /_/    \_\_|   |_____|
  
- Author: @yusufhan (Yusufhan Karakoç)                                                  
+ Author: https://github.com/yusufhan                                        
                                             
 */
 	class SteamAPI
