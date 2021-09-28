@@ -15,7 +15,23 @@
 
 		private $key;
 
-		public $personaname, $realname, $profileurl, $timecreated, $avatar, $avatarmedium, $avatarfull, $avatarhash, $loccountrycode, $locstatecode, $loccityid, $personastate, $personastateflags, $profilestate, $commentpermission, $communityvisibilitystate, $primaryclanid;
+		public 	$personaname,
+			$realname,
+			$profileurl,
+			$timecreated,
+			$avatar,
+			$avatarmedium,
+			$avatarfull,
+			$avatarhash,
+			$loccountrycode,
+			$locstatecode,
+			$loccityid,
+			$personastate,
+			$personastateflags,
+			$profilestate,
+			$commentpermission,
+			$communityvisibilitystate,
+			$primaryclanid;
 		
 		public function __construct($apikey)
 		{
